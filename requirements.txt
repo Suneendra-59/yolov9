@@ -1,0 +1,4 @@
+pandas
+pymupdf
+opencv-python-headless
+bbox_visualizer2

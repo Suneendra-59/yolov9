@@ -27,3 +27,10 @@ The following pre-processing was applied to each image:
 No image augmentation techniques were applied.
 
 
+## How to Start the projects
+
+'''
+conda activate env
+conda init
+pip install -r Requirements.txt
+'''
