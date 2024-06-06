@@ -1,2 +1,4 @@
 step 1: training
 python train_dual.py --workers 8 --device cpu --batch 2 --data ../../Data/data.yaml --img 1280 --cfg models/detect/yolov9-e.yaml --weights ../../weights/legend_detection_best.pt --name yolov9eHatch --hyp ../../lib/yolov9/hyps/hyp.scratch-high.yaml --min-items 0 --epochs 50 --close-mosaic 15 --patience 300
+
+step : 2
